@@ -242,3 +242,7 @@ USER_PIPELINE_DIAGRAM.md
 CLEAN_MERMAID_DIAGRAMS.md
 LINKEDIN_READY_DIAGRAMS.md
 Global\ analysis\ and\ upgrade\ plan.txt
+
+# Utility scripts to exclude
+generate_images.py
+scripts/verify_github_ready.py
